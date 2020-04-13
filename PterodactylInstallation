@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bashthelmaooo
 #Can be grabbed from
 #wget https://bit.ly/2X6sZVU && bash 2X6sZVU
 echo 'Enter your FQDN panel.example.com'
